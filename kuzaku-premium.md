@@ -1,4 +1,4 @@
-# Kuzaku gold
+# Kuzaku Premium
 
 ## Введение <a id="vvedenie"></a>
 
