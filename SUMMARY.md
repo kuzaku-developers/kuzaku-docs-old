@@ -1,16 +1,21 @@
 # Table of contents
 
 * [Добро пожаловать!](README.md)
-* [Публичное API](public-api.md)
-* [Kuzaku Premium](kuzaku-premium.md)
 
 ## Начало <a id="get-started"></a>
 
-* [Список изменений](get-started/changelog.md)
-* [Копирование ID](get-started/kopirovanie-id.md)
-* [FAQ](get-started/faq.md)
+* [Kuzaku Premium](get-started/kuzaku-premium.md)
+* [Публичное API](get-started/public-api.md)
+
+## Дополнительная информация
+
+* [Дополнительная информация](dopolnitelnaya-informaciya/additional-info.md)
+
+## Полезные ссылки
 
 ---
 
 * [Официальный вебсайт](https://kuzaku.ml)
+* [Список изменений](changelog.md)
+* [FAQ](faq.md)
 
