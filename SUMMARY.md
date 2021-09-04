@@ -23,7 +23,7 @@
 * [FAQ](why-you-are-reading-this-l0o0o0o0o0ol/faq.md)
 * [Список изменений](why-you-are-reading-this-l0o0o0o0o0ol/changelog.md)
 
-## Настройка бота
+## Настройка бота <a id="setting-up-bot"></a>
 
-* [Музыкальные команды](nastroika-bota/muzykalnye-komandy.md)
+* [Музыкальные команды](setting-up-bot/musuc-commands.md)
 
