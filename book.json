@@ -2,11 +2,8 @@
     "root" : "./",
     "plugins" : ["theme-api", "github"],
     "pluginsConfig": {
-        "theme-api": {
-            "theme": "dark"
-        },
         "github": {
-            "url": "https://github.com/your/repo"
+            "url": "https://github.com/kuzaku-developers/kuzaku-docs"
         }
     }
 }
