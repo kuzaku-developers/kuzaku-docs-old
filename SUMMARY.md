@@ -12,16 +12,16 @@
 * [Kuzaku Premium](additional-info/kuzaku-premium.md)
 * [Копирование ID](additional-info/id-copy.md)
 
-## Полезные ссылки
+## Полезные ссылки <a id="good-links"></a>
 
-* [Контакты разработчиков](poleznye-ssylki/contacts.md)
+* [Контакты разработчиков](good-links/contacts.md)
 * [Официальный вебсайт](https://kuzaku.ml)
 * [Пригласить Kuzaku](https://discordapp.com/oauth2/authorize?client_id=778648045960298568&scope=bot%20applications.commands&permissions=473197655)
 
-## Другое <a id="why-you-are-reading-this-l0o0o0o0o0ol"></a>
+## Другое <a id="another"></a>
 
-* [FAQ](why-you-are-reading-this-l0o0o0o0o0ol/faq.md)
-* [Список изменений](why-you-are-reading-this-l0o0o0o0o0ol/changelog.md)
+* [FAQ](another/faq.md)
+* [Список изменений](another/changelog.md)
 
 ## Настройка бота <a id="setting-up-bot"></a>
 

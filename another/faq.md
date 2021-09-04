@@ -4,7 +4,7 @@
 
 ## Как пригласить Kuzaku?
 
-Процесс приглашения подробно описан на [этой](../additional-info/kuzaku-invitation.md) странице, но если у Вас остались вопросы, [пишите](../poleznye-ssylki/contacts.md) в нашу команду
+Процесс приглашения подробно описан на [этой](../additional-info/kuzaku-invitation.md) странице, но если у Вас остались вопросы, [пишите](../good-links/contacts.md) в нашу команду
 
 ## Есть ли у Kuzaku панель управления \(dashboard\)? <a id="kak-zaiti-v-panel-upravleniya"></a>
 
