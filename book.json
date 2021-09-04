@@ -1,12 +1,12 @@
 {
     "root" : "./",
-    "plugins" : ["theme-api", "hide-element"],
+    "plugins" : ["theme-api", "github"],
     "pluginsConfig": {
         "theme-api": {
             "theme": "dark"
         },
-        "hide-element": {
-            "elements": [".gitbook-link"]
+        "github": {
+            "url": "https://github.com/your/repo"
         }
     }
 }
