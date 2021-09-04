@@ -1,6 +1,6 @@
 {
     "root" : "./"
-    "plugins": ["theme-api"],
+    "plugins" : ["theme-api"],
     "pluginsConfig": {
         "theme-api": {
             "theme": "dark"
