@@ -6,11 +6,11 @@
 
 * [Публичное API](get-started/public-api.md)
 
-## Дополнительная информация
+## Дополнительная информация <a id="additional-info"></a>
 
-* [Как пригласить Kuzaku](dopolnitelnaya-informaciya/kuzaku-invitation.md)
-* [Kuzaku Premium](dopolnitelnaya-informaciya/kuzaku-premium.md)
-* [Копирование ID](dopolnitelnaya-informaciya/id-copy.md)
+* [Как пригласить Kuzaku](additional-info/kuzaku-invitation.md)
+* [Kuzaku Premium](additional-info/kuzaku-premium.md)
+* [Копирование ID](additional-info/id-copy.md)
 
 ## Полезные ссылки
 
