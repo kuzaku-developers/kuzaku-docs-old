@@ -1,13 +1,12 @@
 {
     "root" : "./",
-    "plugins" : ["theme-api", "layout"],
+    "plugins" : ["theme-api", "hide-element"],
     "pluginsConfig": {
         "theme-api": {
             "theme": "dark"
         },
-        "layout": {
-        	"headerPath" : "layouts/header.html",
-        	"footerPath" : "layouts/footer.html"
-        },
+        "hide-element": {
+            "elements": [".gitbook-link"]
+        }
     }
 }
