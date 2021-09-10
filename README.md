@@ -1,8 +1,8 @@
 # Добро пожаловать!
 
-### Инфо
+### Information
 
-Добро пожаловать на официальную документацию Kuzaku для пользователей и разработчиков!
+Welcome to the official Kuzaku documentation for users and developers!
 
 В данной документации присутствует информация о публичном [API](get-started/public-api.md) а также [FAQ](another/faq.md) формат.
 
